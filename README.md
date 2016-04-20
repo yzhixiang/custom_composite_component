@@ -1,6 +1,8 @@
 # custom_composite_component
 一个自定义复合控件TopBar的例子
 
+在博客里有详细介绍：[http://blog.csdn.net/yabg_zhi_xiang/article/details/51204713](http://blog.csdn.net/yabg_zhi_xiang/article/details/51204713)
+
 ##属性描述
 title：TopBar标题的text描述
 
