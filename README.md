@@ -1,0 +1,13 @@
+# custom_composite_component
+一个自定义复合控件TopBar的例子
+
+##属性描述
+title：TopBar标题的text描述
+titleTextSize：TopBar标题的textSize
+titleColor：TopBar标题的颜色
+leftTextColor：左边按钮颜色
+leftBackground：左边按钮背景，既可以是reference类型也可以是color类型
+leftText：左边按钮text
+rightTextColor：右边按钮颜色
+rightBackground：右边按钮背景，既可以是reference类型也可以是color类型
+rightText：右边按钮text
